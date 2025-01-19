@@ -1,0 +1,272 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "stargazers_count": 408998,
+    "language": "TypeScript",
+    "updated_at": "2025-01-19T00:02:05Z"
+  },
+  {
+    "name": "free-programming-books",
+    "full_name": "EbookFoundation/free-programming-books",
+    "html_url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": ":books: Freely available programming books",
+    "stargazers_count": 347983,
+    "language": "HTML",
+    "updated_at": "2025-01-19T00:12:51Z"
+  },
+  {
+    "name": "awesome",
+    "full_name": "sindresorhus/awesome",
+    "html_url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "stargazers_count": 342424,
+    "language": null,
+    "updated_at": "2025-01-19T00:35:49Z"
+  },
+  {
+    "name": "build-your-own-x",
+    "full_name": "codecrafters-io/build-your-own-x",
+    "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "stargazers_count": 326194,
+    "language": "Markdown",
+    "updated_at": "2025-01-19T00:20:45Z"
+  },
+  {
+    "name": "coding-interview-university",
+    "full_name": "jwasham/coding-interview-university",
+    "html_url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "stargazers_count": 310466,
+    "language": null,
+    "updated_at": "2025-01-19T00:40:49Z"
+  },
+  {
+    "name": "developer-roadmap",
+    "full_name": "kamranahmedse/developer-roadmap",
+    "html_url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "stargazers_count": 306243,
+    "language": "TypeScript",
+    "updated_at": "2025-01-19T00:42:08Z"
+  },
+  {
+    "name": "system-design-primer",
+    "full_name": "donnemartin/system-design-primer",
+    "html_url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+    "stargazers_count": 286275,
+    "language": "Python",
+    "updated_at": "2025-01-19T00:32:47Z"
+  },
+  {
+    "name": "project-based-learning",
+    "full_name": "practical-tutorials/project-based-learning",
+    "html_url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "stargazers_count": 213209,
+    "language": null,
+    "updated_at": "2025-01-19T00:31:21Z"
+  },
+  {
+    "name": "vue",
+    "full_name": "vuejs/vue",
+    "html_url": "https://github.com/vuejs/vue",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+    "stargazers_count": 208263,
+    "language": "TypeScript",
+    "updated_at": "2025-01-18T22:56:16Z"
+  },
+  {
+    "name": "Python",
+    "full_name": "TheAlgorithms/Python",
+    "html_url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "stargazers_count": 196498,
+    "language": "Python",
+    "updated_at": "2025-01-18T23:16:03Z"
+  },
+  {
+    "name": "javascript-algorithms",
+    "full_name": "trekhleb/javascript-algorithms",
+    "html_url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "stargazers_count": 189519,
+    "language": "JavaScript",
+    "updated_at": "2025-01-19T00:38:54Z"
+  },
+  {
+    "name": "tensorflow",
+    "full_name": "tensorflow/tensorflow",
+    "html_url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "stargazers_count": 187327,
+    "language": "C++",
+    "updated_at": "2025-01-18T23:23:58Z"
+  },
+  {
+    "name": "linux",
+    "full_name": "torvalds/linux",
+    "html_url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "stargazers_count": 186075,
+    "language": "C",
+    "updated_at": "2025-01-18T23:21:01Z"
+  },
+  {
+    "name": "You-Dont-Know-JS",
+    "full_name": "getify/You-Dont-Know-JS",
+    "html_url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "stargazers_count": 180690,
+    "language": null,
+    "updated_at": "2025-01-19T00:41:15Z"
+  },
+  {
+    "name": "CS-Notes",
+    "full_name": "CyC2018/CS-Notes",
+    "html_url": "https://github.com/CyC2018/CS-Notes",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "stargazers_count": 178558,
+    "language": null,
+    "updated_at": "2025-01-18T17:34:13Z"
+  },
+  {
+    "name": "ohmyzsh",
+    "full_name": "ohmyzsh/ohmyzsh",
+    "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+    "stargazers_count": 175417,
+    "language": "Shell",
+    "updated_at": "2025-01-18T19:33:11Z"
+  },
+  {
+    "name": "computer-science",
+    "full_name": "ossu/computer-science",
+    "html_url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "stargazers_count": 174390,
+    "language": null,
+    "updated_at": "2025-01-19T00:24:23Z"
+  },
+  {
+    "name": "bootstrap",
+    "full_name": "twbs/bootstrap",
+    "html_url": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "stargazers_count": 171236,
+    "language": "JavaScript",
+    "updated_at": "2025-01-19T00:25:50Z"
+  },
+  {
+    "name": "flutter",
+    "full_name": "flutter/flutter",
+    "html_url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "stargazers_count": 168023,
+    "language": "Dart",
+    "updated_at": "2025-01-18T22:47:20Z"
+  },
+  {
+    "name": "vscode",
+    "full_name": "microsoft/vscode",
+    "html_url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "stargazers_count": 166348,
+    "language": "TypeScript",
+    "updated_at": "2025-01-18T23:56:45Z"
+  },
+  {
+    "name": "gitignore",
+    "full_name": "github/gitignore",
+    "html_url": "https://github.com/github/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "stargazers_count": 163749,
+    "language": null,
+    "updated_at": "2025-01-19T00:25:36Z"
+  },
+  {
+    "name": "the-book-of-secret-knowledge",
+    "full_name": "trimstray/the-book-of-secret-knowledge",
+    "html_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "stargazers_count": 155430,
+    "language": null,
+    "updated_at": "2025-01-19T00:34:59Z"
+  },
+  {
+    "name": "the-art-of-command-line",
+    "full_name": "jlevy/the-art-of-command-line",
+    "html_url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "stargazers_count": 154375,
+    "language": null,
+    "updated_at": "2025-01-19T00:06:03Z"
+  },
+  {
+    "name": "JavaGuide",
+    "full_name": "Snailclimb/JavaGuide",
+    "html_url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "stargazers_count": 147769,
+    "language": "Java",
+    "updated_at": "2025-01-18T17:36:36Z"
+  },
+  {
+    "name": "stable-diffusion-webui",
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "stargazers_count": 146033,
+    "language": "Python",
+    "updated_at": "2025-01-19T00:36:01Z"
+  },
+  {
+    "name": "javascript",
+    "full_name": "airbnb/javascript",
+    "html_url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "stargazers_count": 145859,
+    "language": "JavaScript",
+    "updated_at": "2025-01-19T00:33:59Z"
+  },
+  {
+    "name": "transformers",
+    "full_name": "huggingface/transformers",
+    "html_url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "stargazers_count": 137735,
+    "language": "Python",
+    "updated_at": "2025-01-19T00:31:56Z"
+  },
+  {
+    "name": "youtube-dl",
+    "full_name": "ytdl-org/youtube-dl",
+    "html_url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "stargazers_count": 133681,
+    "language": "Python",
+    "updated_at": "2025-01-18T23:30:26Z"
+  },
+  {
+    "name": "next.js",
+    "full_name": "vercel/next.js",
+    "html_url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "stargazers_count": 128653,
+    "language": "JavaScript",
+    "updated_at": "2025-01-18T23:24:09Z"
+  },
+  {
+    "name": "go",
+    "full_name": "golang/go",
+    "html_url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "stargazers_count": 125148,
+    "language": "Go",
+    "updated_at": "2025-01-18T23:21:16Z"
+  }
+]
