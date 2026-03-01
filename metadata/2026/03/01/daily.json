@@ -1,0 +1,272 @@
+[
+  {
+    "name": "build-your-own-x",
+    "full_name": "codecrafters-io/build-your-own-x",
+    "html_url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "stargazers_count": 470125,
+    "language": "Markdown",
+    "updated_at": "2026-03-01T01:09:50Z"
+  },
+  {
+    "name": "awesome",
+    "full_name": "sindresorhus/awesome",
+    "html_url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "stargazers_count": 441432,
+    "language": null,
+    "updated_at": "2026-03-01T01:09:39Z"
+  },
+  {
+    "name": "freeCodeCamp",
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "html_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "stargazers_count": 437607,
+    "language": "TypeScript",
+    "updated_at": "2026-03-01T00:36:46Z"
+  },
+  {
+    "name": "public-apis",
+    "full_name": "public-apis/public-apis",
+    "html_url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "stargazers_count": 401395,
+    "language": "Python",
+    "updated_at": "2026-03-01T01:09:15Z"
+  },
+  {
+    "name": "free-programming-books",
+    "full_name": "EbookFoundation/free-programming-books",
+    "html_url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": ":books: Freely available programming books",
+    "stargazers_count": 383354,
+    "language": "Python",
+    "updated_at": "2026-03-01T01:05:28Z"
+  },
+  {
+    "name": "developer-roadmap",
+    "full_name": "kamranahmedse/developer-roadmap",
+    "html_url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "stargazers_count": 349897,
+    "language": "TypeScript",
+    "updated_at": "2026-03-01T00:43:37Z"
+  },
+  {
+    "name": "coding-interview-university",
+    "full_name": "jwasham/coding-interview-university",
+    "html_url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "stargazers_count": 337502,
+    "language": null,
+    "updated_at": "2026-03-01T01:07:14Z"
+  },
+  {
+    "name": "system-design-primer",
+    "full_name": "donnemartin/system-design-primer",
+    "html_url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+    "stargazers_count": 336958,
+    "language": "Python",
+    "updated_at": "2026-03-01T01:04:58Z"
+  },
+  {
+    "name": "awesome-python",
+    "full_name": "vinta/awesome-python",
+    "html_url": "https://github.com/vinta/awesome-python",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+    "stargazers_count": 284961,
+    "language": "Python",
+    "updated_at": "2026-03-01T01:10:02Z"
+  },
+  {
+    "name": "awesome-selfhosted",
+    "full_name": "awesome-selfhosted/awesome-selfhosted",
+    "html_url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "stargazers_count": 275846,
+    "language": null,
+    "updated_at": "2026-03-01T00:57:16Z"
+  },
+  {
+    "name": "996.ICU",
+    "full_name": "996icu/996.ICU",
+    "html_url": "https://github.com/996icu/996.ICU",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "stargazers_count": 275566,
+    "language": null,
+    "updated_at": "2026-02-28T18:40:08Z"
+  },
+  {
+    "name": "project-based-learning",
+    "full_name": "practical-tutorials/project-based-learning",
+    "html_url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "stargazers_count": 259751,
+    "language": null,
+    "updated_at": "2026-03-01T01:05:20Z"
+  },
+  {
+    "name": "react",
+    "full_name": "facebook/react",
+    "html_url": "https://github.com/facebook/react",
+    "description": "The library for web and native user interfaces.",
+    "stargazers_count": 243370,
+    "language": "JavaScript",
+    "updated_at": "2026-03-01T00:54:46Z"
+  },
+  {
+    "name": "openclaw",
+    "full_name": "openclaw/openclaw",
+    "html_url": "https://github.com/openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "stargazers_count": 240413,
+    "language": "TypeScript",
+    "updated_at": "2026-03-01T01:09:39Z"
+  },
+  {
+    "name": "linux",
+    "full_name": "torvalds/linux",
+    "html_url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "stargazers_count": 219888,
+    "language": "C",
+    "updated_at": "2026-03-01T01:04:07Z"
+  },
+  {
+    "name": "Python",
+    "full_name": "TheAlgorithms/Python",
+    "html_url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "stargazers_count": 218227,
+    "language": "Python",
+    "updated_at": "2026-03-01T00:40:22Z"
+  },
+  {
+    "name": "vue",
+    "full_name": "vuejs/vue",
+    "html_url": "https://github.com/vuejs/vue",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+    "stargazers_count": 209927,
+    "language": "TypeScript",
+    "updated_at": "2026-02-28T19:43:53Z"
+  },
+  {
+    "name": "the-book-of-secret-knowledge",
+    "full_name": "trimstray/the-book-of-secret-knowledge",
+    "html_url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "stargazers_count": 208169,
+    "language": null,
+    "updated_at": "2026-03-01T01:09:56Z"
+  },
+  {
+    "name": "computer-science",
+    "full_name": "ossu/computer-science",
+    "html_url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "stargazers_count": 201934,
+    "language": "HTML",
+    "updated_at": "2026-03-01T00:58:24Z"
+  },
+  {
+    "name": "javascript-algorithms",
+    "full_name": "trekhleb/javascript-algorithms",
+    "html_url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "stargazers_count": 195704,
+    "language": "JavaScript",
+    "updated_at": "2026-03-01T00:33:25Z"
+  },
+  {
+    "name": "tensorflow",
+    "full_name": "tensorflow/tensorflow",
+    "html_url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "stargazers_count": 193943,
+    "language": "C++",
+    "updated_at": "2026-02-28T23:20:14Z"
+  },
+  {
+    "name": "ohmyzsh",
+    "full_name": "ohmyzsh/ohmyzsh",
+    "html_url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+    "stargazers_count": 185021,
+    "language": "Shell",
+    "updated_at": "2026-03-01T00:10:23Z"
+  },
+  {
+    "name": "You-Dont-Know-JS",
+    "full_name": "getify/You-Dont-Know-JS",
+    "html_url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series (2 published editions) on the JS language.",
+    "stargazers_count": 184445,
+    "language": null,
+    "updated_at": "2026-03-01T00:34:13Z"
+  },
+  {
+    "name": "CS-Notes",
+    "full_name": "CyC2018/CS-Notes",
+    "html_url": "https://github.com/CyC2018/CS-Notes",
+    "description": ":books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "stargazers_count": 183739,
+    "language": null,
+    "updated_at": "2026-02-28T17:05:03Z"
+  },
+  {
+    "name": "vscode",
+    "full_name": "microsoft/vscode",
+    "html_url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "stargazers_count": 182166,
+    "language": "TypeScript",
+    "updated_at": "2026-03-01T01:05:12Z"
+  },
+  {
+    "name": "AutoGPT",
+    "full_name": "Significant-Gravitas/AutoGPT",
+    "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "stargazers_count": 182105,
+    "language": "Python",
+    "updated_at": "2026-03-01T00:51:24Z"
+  },
+  {
+    "name": "Python-100-Days",
+    "full_name": "jackfrued/Python-100-Days",
+    "html_url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "stargazers_count": 179103,
+    "language": "Jupyter Notebook",
+    "updated_at": "2026-03-01T00:45:24Z"
+  },
+  {
+    "name": "n8n",
+    "full_name": "n8n-io/n8n",
+    "html_url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "stargazers_count": 176903,
+    "language": "TypeScript",
+    "updated_at": "2026-03-01T01:00:20Z"
+  },
+  {
+    "name": "flutter",
+    "full_name": "flutter/flutter",
+    "html_url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "stargazers_count": 175374,
+    "language": "Dart",
+    "updated_at": "2026-02-28T22:33:04Z"
+  },
+  {
+    "name": "bootstrap",
+    "full_name": "twbs/bootstrap",
+    "html_url": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "stargazers_count": 173999,
+    "language": "MDX",
+    "updated_at": "2026-03-01T01:06:50Z"
+  }
+]
